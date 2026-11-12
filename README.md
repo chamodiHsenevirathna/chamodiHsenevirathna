@@ -129,11 +129,18 @@ I enjoy connecting the perspectives that often get separated during delivery:
 
 **Technology** — AI-enabled products, data workflows, APIs, Python, SQL and software product development.
 
-## A little context
+## Background
 
-MSc Business Analytics, Robert Gordon University — **Distinction**  
-BSc Computer Science (Software Engineering), Curtin University  
-Certified Scrum Product Owner (CSPO)
+**Education**
+
+- MSc Business Analytics, Robert Gordon University — **Distinction**
+- BSc Computer Science (Software Engineering), Curtin University
+
+**Certifications & professional development**
+
+- Microsoft Certified: AI Transformation Leader — 2026
+- Certified Scrum Product Owner (CSPO) — 2025–2027
+- Project Management Programme — 2023
 
 ---
 
