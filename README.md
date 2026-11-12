@@ -4,12 +4,6 @@
   <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — Business Analysis, Product and Technology" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/chamodiHsenevirathna">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
-
 ---
 
 ## What I do
