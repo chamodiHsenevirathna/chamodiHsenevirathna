@@ -4,12 +4,6 @@
   <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — The right problem is the real starting point" width="100%" />
 </p>
 
-<p align="right">
-  <a href="https://www.linkedin.com/">LinkedIn ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:">Email ↗</a>
-</p>
-
 ## I didn't come to product through a pitch deck.
 
 I started with a software engineering background, which gave me an appreciation for how products are built. Working in business analysis and product delivery taught me to look just as closely at **why they should be built, who they need to work for, and what it takes to get them into use.**
