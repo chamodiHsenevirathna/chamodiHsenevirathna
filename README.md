@@ -1,70 +1,74 @@
-<!-- Chamodi Senevirathna | Profile -->
+<!-- Chamodi Senevirathna | GitHub profile -->
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — The right problem is the real starting point" width="100%" />
+  <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — Business analysis, product decisions and technology delivery" width="100%" />
 </p>
 
-## I didn't come to product through a pitch deck.
+My background is in software engineering and business analytics. In business analysis, I found myself drawn to the work that happens before a solution is built: understanding how people work, where a process gets stuck, what the business actually needs, and what a useful change would involve.
 
-I started with a software engineering background, which gave me an appreciation for how products are built. Working in business analysis and product delivery taught me to look just as closely at **why they should be built, who they need to work for, and what it takes to get them into use.**
+That perspective has shaped the way I approach product work. I like getting close to the problem, making different perspectives understandable, and giving teams something concrete to move forward with: a process, a set of requirements, a decision, or a delivery plan.
 
-That is the space I work in: between business and technology.
+I work across **business analysis, product and technology**, with a particular interest in AI-enabled products where usefulness, operational fit and trust matter as much as the technology.
 
-I turn loosely defined problems into something teams can act on: a clearer problem statement, an understood workflow, aligned stakeholders, testable requirements and a delivery path. I am particularly interested in products where data and AI can solve a real operational problem, not simply add another feature with an AI label.
+---
 
-## A few problems I've explored
+## Selected work
 
-These projects show how I approach a problem: understand the context, examine the evidence, make the trade-offs visible, and decide what deserves to happen next.
+A few examples of the questions I've explored, from assessing whether a product should exist to building a working prototype.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 &nbsp; / &nbsp; PRODUCT STRATEGY · HEALTHCARE</sub><br/><br/>
+      <sub>01 / HEALTHCARE · PRODUCT STRATEGY</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/healthcare-ai-case-study">When AI predictions don't pay</a></strong><br/><br/>
-      A predictive model can identify risk. But can a hospital act on that prediction, and does the business case hold? This case study examines the gap between model performance and operational value.<br/><br/>
-      <sub>Business viability · Stakeholder incentives · Risk</sub>
+      Predicting hospital readmission risk is one problem. Making that prediction useful in a hospital is another. This case study looks at the operational realities, incentives and economics between the two.<br/><br/>
+      <sub>Business case · Stakeholders · Operational fit</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>02 &nbsp; / &nbsp; PRODUCT DISCOVERY · FINANCIAL SERVICES</sub><br/><br/>
-      <strong><a href="https://github.com/chamodiHsenevirathna/digital-financial-document-intelligence">Beyond chat with PDFs</a></strong><br/><br/>
-      Financial analysis depends on more than finding an answer. I explored the workflow, failure points and trust requirements behind AI-assisted document analysis.<br/><br/>
-      <sub>Workflow analysis · Problem framing · Evaluation</sub>
+      <sub>02 / FINANCIAL SERVICES · PRODUCT DISCOVERY</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/digital-financial-document-intelligence">Financial document intelligence</a></strong><br/><br/>
+      Financial analysts need more than a quick answer from a document. This research examines the workflow behind analysis, where AI systems can lose accuracy or context, and what a trustworthy solution would need to do.<br/><br/>
+      <sub>Workflow analysis · Problem definition · Evaluation</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 &nbsp; / &nbsp; PRODUCT DEFINITION · CONSUMER</sub><br/><br/>
-      <strong><a href="https://github.com/chamodiHsenevirathna/local-first-reader-case-study">A reader that keeps reading personal</a></strong><br/><br/>
-      Could a privacy-first reading experience compete with cloud-based AI tools? I assessed the opportunity, MVP boundaries and feasibility before recommending what to validate next.<br/><br/>
-      <sub>Opportunity assessment · MVP scope · Prioritisation</sub>
+      <sub>03 / CONSUMER · PRODUCT DEFINITION</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/local-first-reader-case-study">A local-first reading experience</a></strong><br/><br/>
+      Could a reader built around privacy and offline use offer a compelling alternative to cloud-based tools? I explored the opportunity, trade-offs and what an initial product should include.<br/><br/>
+      <sub>Product research · MVP scope · Feasibility</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>04 &nbsp; / &nbsp; PRODUCT BUILD · PERSONALISATION</sub><br/><br/>
+      <sub>04 / PERSONALISATION · PRODUCT BUILD</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/brickwise">Brickwise</a></strong><br/><br/>
-      A working local MVP for visual product discovery. It explores how preference signals can shape recommendations and make the reasoning behind them visible.<br/><br/>
+      A working local prototype for visual product discovery. It uses preference signals to shape recommendations and gives users a view into why items are suggested.<br/><br/>
       <sub>Product experience · Recommendation logic · Prototype</sub>
     </td>
   </tr>
 </table>
 
-<sub>The first three are desk-research case studies, not customer-validated products. Brickwise is a working MVP and has not yet been validated with real users.</sub>
+<sub>The first three projects are desk-research case studies, not customer-validated products. Brickwise is a working prototype and has not yet been evaluated with real users.</sub>
 
-## Where I add value
+## How I work
 
-**Making the problem clear.** Understanding business context, users, stakeholders, constraints and existing processes before jumping to a solution.
+I tend to move through four connected questions:
 
-**Making the work actionable.** Translating findings into process flows, functional requirements, user stories, acceptance criteria, priorities and decisions.
+| Understand the situation | Make the need specific | Help the team deliver | Check the result |
+|:--|:--|:--|:--|
+| Users, stakeholders, processes and constraints | Requirements, workflows, stories and acceptance criteria | Priorities, dependencies, QA and UAT | Quality, operational fit, feedback and measures |
 
-**Keeping delivery connected to intent.** Working across product, business, engineering and QA; supporting backlog refinement, UAT, issue resolution and delivery coordination.
+This is where my business analysis experience meets my interest in product management: keeping the original problem visible as a solution takes shape.
 
-**Asking whether it worked.** Thinking about quality, adoption, operational fit, risks and meaningful measures of success, not just whether a feature shipped.
+## Working knowledge
 
-## My working context
+**Business analysis**  
+Requirements elicitation · Process analysis · Stakeholder alignment · User stories · Acceptance criteria · UAT
 
-- **Business analysis:** discovery, requirements elicitation, process analysis, stakeholder alignment, user stories and UAT
-- **Product:** problem framing, product research, prioritisation, MVP definition and evaluation
-- **Delivery:** Agile ways of working, backlog refinement, cross-functional coordination and quality
-- **Technology:** AI-enabled products, data workflows, APIs and software product development
+**Product and delivery**  
+Problem framing · Product discovery · Prioritisation · MVP definition · Backlog refinement · Cross-functional coordination
+
+**Technology**  
+AI-enabled products · Data and document workflows · APIs · Python · SQL · Software product development
 
 ## Background
 
@@ -75,5 +79,5 @@ These projects show how I approach a problem: understand the context, examine th
 ---
 
 <p align="center">
-  <sub>Interested in thoughtful products, difficult problems and technology with a reason to exist.</sub>
+  <sub>Based in Sri Lanka · <a href="https://github.com/chamodiHsenevirathna">GitHub</a></sub>
 </p>
