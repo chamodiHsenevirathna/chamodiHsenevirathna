@@ -1,12 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
-  <rect width="1200" height="330" fill="#111315"/>
-  <path d="M0 0H1200V330H0Z" fill="none" stroke="#34393B" stroke-width="2"/>
-  <text x="68" y="62" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">CHAMODI SENEVIRATHNA</text>
-  <text x="1132" y="62" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="2">BUSINESS ANALYSIS / PRODUCT / DELIVERY</text>
-  <line x1="68" y1="88" x2="1132" y2="88" stroke="#3A4040"/>
-  <rect x="68" y="126" width="4" height="132" fill="#B9D978"/>
-  <text x="96" y="177" fill="#F2F3EF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Chamodi Senevirathna</text>
-  <text x="98" y="224" fill="#C3C8C3" font-family="Arial, Helvetica, sans-serif" font-size="22">Business analysis, product decisions &amp; technology delivery.</text>
-  <text x="68" y="294" fill="#818985" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">MSc BUSINESS ANALYTICS  ·  CSPO  ·  SRI LANKA</text>
-  <circle cx="1125" cy="291" r="6" fill="#B9D978"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#111315"/>
+  <path d="M0 0H1200V360H0Z" fill="none" stroke="#34393B"/>
+  <g stroke="#2B3031" stroke-width="1">
+    <path d="M56 82H1144M56 304H1144"/>
+    <path d="M820 82V304"/>
+    <path d="M56 120H1144" opacity=".35"/>
+  </g>
+  <text x="64" y="54" fill="#D9DDD8" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" letter-spacing="3">CHAMODI SENEVIRATHNA</text>
+  <text x="1136" y="54" fill="#89918C" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end" letter-spacing="2">BUSINESS ANALYSIS  /  PRODUCT  /  DELIVERY</text>
+  <rect x="64" y="145" width="4" height="116" fill="#B9D978"/>
+  <text x="92" y="179" fill="#F2F3EF" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.2">Making sense of</text>
+  <text x="92" y="229" fill="#F2F3EF" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.2">complex problems.</text>
+  <text x="94" y="270" fill="#AEB6B0" font-family="Arial,Helvetica,sans-serif" font-size="17">From business context to product decisions and delivery.</text>
+  <text x="858" y="125" fill="#7F8983" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">HOW I APPROACH THE WORK</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="858" y="166" fill="#B9D978" font-size="12">01</text>
+    <text x="895" y="166" fill="#E6E9E4" font-size="17">Understand the problem</text>
+    <path d="M858 184H1136" stroke="#343B38"/>
+    <text x="858" y="220" fill="#B9D978" font-size="12">02</text>
+    <text x="895" y="220" fill="#E6E9E4" font-size="17">Shape the right solution</text>
+    <path d="M858 238H1136" stroke="#343B38"/>
+    <text x="858" y="274" fill="#B9D978" font-size="12">03</text>
+    <text x="895" y="274" fill="#E6E9E4" font-size="17">Help teams deliver it</text>
+  </g>
+  <text x="64" y="334" fill="#89918C" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">MSc BUSINESS ANALYTICS  ·  DISTINCTION  ·  CSPO</text>
+  <circle cx="1136" cy="329" r="5" fill="#B9D978"/>
 </svg>
