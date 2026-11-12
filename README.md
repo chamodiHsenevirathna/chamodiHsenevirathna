@@ -1,85 +1,85 @@
-<!-- Profile README for chamodiHsenevirathna -->
+<!-- Chamodi Senevirathna | Profile -->
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — Business Analysis, Product and Technology" width="100%" />
+  <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — The right problem is the real starting point" width="100%" />
 </p>
 
----
+<p align="right">
+  <a href="https://www.linkedin.com/">LinkedIn ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:">Email ↗</a>
+</p>
 
-## What I do
+## I didn't come to product through a pitch deck.
 
-I work at the intersection of **business analysis, product thinking and technology**. I enjoy taking ambiguous problems, understanding the people and workflows behind them, and turning that understanding into clear requirements, practical product decisions and delivery plans.
+I started with a software engineering background, which gave me an appreciation for how products are built. Working in business analysis and product delivery taught me to look just as closely at **why they should be built, who they need to work for, and what it takes to get them into use.**
 
-My interests include product discovery, business process analysis, requirements engineering, AI-enabled products and technology transformation.
+That is the space I work in: between business and technology.
 
-## Selected work
+I turn loosely defined problems into something teams can act on: a clearer problem statement, an understood workflow, aligned stakeholders, testable requirements and a delivery path. I am particularly interested in products where data and AI can solve a real operational problem, not simply add another feature with an AI label.
+
+## A few problems I've explored
+
+These projects show how I approach a problem: understand the context, examine the evidence, make the trade-offs visible, and decide what deserves to happen next.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/healthcare-ai-case-study">01 — Healthcare AI Strategy</a></strong><br/>
-      Evaluating the business case for predictive AI in healthcare, including operational fit, buyer incentives, economics and risk.<br/><br/>
-      <sub>Product strategy · Business viability · Risk analysis</sub>
+      <sub>01 &nbsp; / &nbsp; PRODUCT STRATEGY · HEALTHCARE</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/healthcare-ai-case-study">When AI predictions don't pay</a></strong><br/><br/>
+      A predictive model can identify risk. But can a hospital act on that prediction, and does the business case hold? This case study examines the gap between model performance and operational value.<br/><br/>
+      <sub>Business viability · Stakeholder incentives · Risk</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/digital-financial-document-intelligence">02 — Financial Document Intelligence</a></strong><br/>
-      Exploring how AI could support financial analysis workflows while addressing accuracy, traceability and trust.<br/><br/>
-      <sub>Product discovery · Workflow analysis · Evaluation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/local-first-reader-case-study">03 — Local-first Reader</a></strong><br/>
-      Assessing a privacy-first reading product, its target problem, MVP boundaries and feasibility.<br/><br/>
-      <sub>Product research · Prioritisation · Feasibility</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/brickwise">04 — Brickwise</a></strong><br/>
-      A working local MVP exploring visual preference signals and personalised product discovery.<br/><br/>
-      <sub>Product development · Recommendation experience · Experimentation</sub>
+      <sub>02 &nbsp; / &nbsp; PRODUCT DISCOVERY · FINANCIAL SERVICES</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/digital-financial-document-intelligence">Beyond chat with PDFs</a></strong><br/><br/>
+      Financial analysis depends on more than finding an answer. I explored the workflow, failure points and trust requirements behind AI-assisted document analysis.<br/><br/>
+      <sub>Workflow analysis · Problem framing · Evaluation</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/digital-twin-oncology-case-study">05 — Digital Twin in Oncology</a></strong><br/>
-      Assessing potential clinical use cases, stakeholder needs, evidence gaps and product risks.<br/><br/>
-      <sub>Use-case assessment · Stakeholder analysis · Product strategy</sub>
+      <sub>03 &nbsp; / &nbsp; PRODUCT DEFINITION · CONSUMER</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/local-first-reader-case-study">A reader that keeps reading personal</a></strong><br/><br/>
+      Could a privacy-first reading experience compete with cloud-based AI tools? I assessed the opportunity, MVP boundaries and feasibility before recommending what to validate next.<br/><br/>
+      <sub>Opportunity assessment · MVP scope · Prioritisation</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/speech-ai-evaluation">06 — Speech AI Evaluation</a></strong><br/>
-      Research into local speech assessment and evidence-grounded feedback for a speaking practice concept.<br/><br/>
-      <sub>Product research · Evaluation design · AI capabilities</sub>
+      <sub>04 &nbsp; / &nbsp; PRODUCT BUILD · PERSONALISATION</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/brickwise">Brickwise</a></strong><br/><br/>
+      A working local MVP for visual product discovery. It explores how preference signals can shape recommendations and make the reasoning behind them visible.<br/><br/>
+      <sub>Product experience · Recommendation logic · Prototype</sub>
     </td>
   </tr>
 </table>
 
-<sub>Research case studies are based on desk research unless otherwise stated. They are not presented as customer-validated products.</sub>
+<sub>The first three are desk-research case studies, not customer-validated products. Brickwise is a working MVP and has not yet been validated with real users.</sub>
 
----
+## Where I add value
 
-## How I approach product work
+**Making the problem clear.** Understanding business context, users, stakeholders, constraints and existing processes before jumping to a solution.
 
-| Understand | Define | Deliver | Learn |
-|:--|:--|:--|:--|
-| Business context and user needs | Requirements and workflows | Priorities and delivery scope | Quality, outcomes and feedback |
-| Stakeholders and constraints | Acceptance criteria and risks | Cross-functional coordination | Evidence and iteration |
+**Making the work actionable.** Translating findings into process flows, functional requirements, user stories, acceptance criteria, priorities and decisions.
 
-## Areas of focus
+**Keeping delivery connected to intent.** Working across product, business, engineering and QA; supporting backlog refinement, UAT, issue resolution and delivery coordination.
 
-**Business analysis** — requirements elicitation, process analysis, user stories, acceptance criteria, stakeholder alignment and UAT.
+**Asking whether it worked.** Thinking about quality, adoption, operational fit, risks and meaningful measures of success, not just whether a feature shipped.
 
-**Product** — discovery, problem framing, prioritisation, MVP definition, product strategy and evaluation.
+## My working context
 
-**Technology** — AI-enabled products, APIs, data workflows, Python, SQL and modern web application concepts.
+- **Business analysis:** discovery, requirements elicitation, process analysis, stakeholder alignment, user stories and UAT
+- **Product:** problem framing, product research, prioritisation, MVP definition and evaluation
+- **Delivery:** Agile ways of working, backlog refinement, cross-functional coordination and quality
+- **Technology:** AI-enabled products, data workflows, APIs and software product development
 
 ## Background
 
-- **MSc Business Analytics**, Robert Gordon University — Distinction
-- **BSc Computer Science (Software Engineering)**, Curtin University
-- **Certified Scrum Product Owner (CSPO)**
+**MSc Business Analytics** — Robert Gordon University, Distinction  
+**BSc Computer Science (Software Engineering)** — Curtin University  
+**Certified Scrum Product Owner (CSPO)**
 
 ---
 
 <p align="center">
-  <sub>Interested in thoughtful products, clear problem-solving and technology that creates practical value.</sub>
+  <sub>Interested in thoughtful products, difficult problems and technology with a reason to exist.</sub>
 </p>
