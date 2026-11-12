@@ -108,6 +108,13 @@ The projects below are grouped by the kind of question behind them, not by techn
   </tr>
 </table>
 
+### More experiments in AI and product development
+
+- **[Adaptive LLM Routing](https://github.com/chamodiHsenevirathna/adaptive-llm-routing)** — compares model-routing strategies against quality, cost and latency trade-offs using benchmark data.
+- **[SpeakLab](https://github.com/chamodiHsenevirathna/SpeakLab)** — a local-first speaking-practice prototype combining speech transcription and measurable feedback.
+- **[Substack Research Assistant](https://github.com/chamodiHsenevirathna/substack-research-assistant)** — a local-first research workflow for collecting and analysing evidence across Reddit, Substack and Google Trends.
+- **[Requirement Partner](https://github.com/chamodiHsenevirathna/requirement-partner)** — an early-stage concept for human-in-the-loop AI support for business analysis.
+
 <sub>Research status matters: several projects are desk-research investigations, not customer-validated products. Flyoku and Brickwise are experimental prototypes. The medical VLM project has not completed its corrected model run. Each repository documents its own evidence and limitations.</sub>
 
 ---
