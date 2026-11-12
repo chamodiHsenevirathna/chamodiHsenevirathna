@@ -4,11 +4,11 @@
   <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — Business analysis, product decisions and technology delivery" width="100%" />
 </p>
 
-I tend to be interested in the bit between **an interesting idea and something that works in the real world**.
+Most of my work starts with a practical question: what is actually getting in the way, and what would make it better?
 
-My route here started in software engineering, then moved through business analysis, product work and business analytics. That mix has shaped the questions I like exploring: Where is the actual problem? Who experiences it? What would need to change? Is the proposed solution useful, feasible and worth doing? And what happens when it meets the messy reality of a business?
+I came to this through software engineering, then moved into business analysis, product work and business analytics. That path means I look at problems from both sides: the business process and the technology being built. I enjoy understanding how people work, making requirements concrete, weighing trade-offs and helping teams turn decisions into something useful.
 
-Some of that work looks like product discovery. Some looks like requirements and delivery. Some looks like a slightly unusual experiment involving a fruit-fly brain and a Sudoku puzzle. The common thread is curiosity about how systems work, and a preference for testing an idea rather than accepting its pitch.
+My projects reflect that mix. Some explore product opportunities and business workflows; others are hands-on technical experiments, including one that uses a fruit-fly connectome to investigate whether a simplified neural model can learn a tiny Sudoku task. Different subjects, same habit: test the idea, examine the result and be clear about what the evidence does and doesn't show.
 
 ---
 
