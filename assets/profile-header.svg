@@ -1,20 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
   <rect width="1200" height="360" fill="#111315"/>
-  <text x="64" y="56" fill="#AEB5AF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">CHAMODI SENEVIRATHNA</text>
-  <text x="64" y="130" fill="#F0F1ED" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" letter-spacing="-0.8">Interested in the space between</text>
-  <text x="64" y="176" fill="#F0F1ED" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" letter-spacing="-0.8">an interesting idea and something</text>
-  <text x="64" y="222" fill="#F0F1ED" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" letter-spacing="-0.8">that works in the real world.</text>
-  <text x="66" y="270" fill="#A1AAA3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing=".7">BUSINESS ANALYSIS  ·  PRODUCT THINKING  ·  TECHNOLOGY DELIVERY</text>
-  <line x1="800" y1="56" x2="800" y2="304" stroke="#343A38"/>
-  <text x="840" y="76" fill="#89918C" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">SELECTED WORK</text>
-  <text x="840" y="124" fill="#E8EBE6" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Autonomous GTM</text>
-  <text x="840" y="147" fill="#9CA69F" font-family="Arial, Helvetica, sans-serif" font-size="13">Commercial workflows &amp; automation</text>
-  <line x1="840" y1="166" x2="1136" y2="166" stroke="#343A38"/>
-  <text x="840" y="204" fill="#E8EBE6" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Brickwise</text>
-  <text x="840" y="227" fill="#9CA69F" font-family="Arial, Helvetica, sans-serif" font-size="13">Visual discovery &amp; personalisation</text>
-  <line x1="840" y1="246" x2="1136" y2="246" stroke="#343A38"/>
-  <text x="840" y="284" fill="#E8EBE6" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Flyoku</text>
-  <text x="840" y="307" fill="#9CA69F" font-family="Arial, Helvetica, sans-serif" font-size="13">A connectome-inspired experiment</text>
-  <line x1="64" y1="318" x2="1136" y2="318" stroke="#343A38"/>
-  <text x="64" y="342" fill="#89918C" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.2">MSc BUSINESS ANALYTICS  ·  DISTINCTION  ·  CSPO</text>
+  <text x="72" y="58" fill="#AEB5AF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2.4">CHAMODI SENEVIRATHNA</text>
+  <text x="72" y="171" fill="#F0F1ED" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" letter-spacing="-1.1">Interested in the space between an idea</text>
+  <text x="72" y="226" fill="#F0F1ED" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="600" letter-spacing="-1.1">and something that works in the real world.</text>
+  <line x1="72" y1="280" x2="1128" y2="280" stroke="#343A38" stroke-width="1"/>
+  <text x="72" y="318" fill="#A1AAA3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.1">BUSINESS ANALYSIS  ·  PRODUCT THINKING  ·  TECHNOLOGY DELIVERY</text>
 </svg>
