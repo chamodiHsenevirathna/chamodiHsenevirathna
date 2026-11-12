@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-  <rect width="1200" height="360" fill="#111315"/>
-  <path d="M0 0H1200V360H0Z" fill="none" stroke="#34393B" stroke-width="2"/>
-  <text x="68" y="64" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">CHAMODI SENEVIRATHNA</text>
-  <text x="1132" y="64" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="2">BUSINESS / PRODUCT / TECHNOLOGY</text>
-  <line x1="68" y1="91" x2="1132" y2="91" stroke="#3A4040"/>
-  <rect x="68" y="130" width="4" height="145" fill="#B9D978"/>
-  <text x="96" y="174" fill="#F2F3EF" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700">The right problem</text>
-  <text x="96" y="229" fill="#F2F3EF" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700">is the real starting point.</text>
-  <text x="98" y="274" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="18">I connect business needs, product decisions and technology delivery.</text>
-  <text x="68" y="326" fill="#818985" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">MSc BUSINESS ANALYTICS  ·  CSPO  ·  SRI LANKA</text>
-  <circle cx="1125" cy="324" r="6" fill="#B9D978"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <rect width="1200" height="330" fill="#111315"/>
+  <path d="M0 0H1200V330H0Z" fill="none" stroke="#34393B" stroke-width="2"/>
+  <text x="68" y="62" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">CHAMODI SENEVIRATHNA</text>
+  <text x="1132" y="62" fill="#AEB4B0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="2">BUSINESS ANALYSIS / PRODUCT / DELIVERY</text>
+  <line x1="68" y1="88" x2="1132" y2="88" stroke="#3A4040"/>
+  <rect x="68" y="126" width="4" height="132" fill="#B9D978"/>
+  <text x="96" y="177" fill="#F2F3EF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Chamodi Senevirathna</text>
+  <text x="98" y="224" fill="#C3C8C3" font-family="Arial, Helvetica, sans-serif" font-size="22">Business analysis, product decisions &amp; technology delivery.</text>
+  <text x="68" y="294" fill="#818985" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">MSc BUSINESS ANALYTICS  ·  CSPO  ·  SRI LANKA</text>
+  <circle cx="1125" cy="291" r="6" fill="#B9D978"/>
 </svg>
