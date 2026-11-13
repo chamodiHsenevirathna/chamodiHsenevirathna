@@ -1,17 +1,8 @@
 <!-- Chamodi Senevirathna | Profile -->
 
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <sub><strong>CHAMODI SENEVIRATHNA</strong></sub>
-      <h1>Interested in the space between an idea and something that works in the real world.</h1>
-      <sub>BUSINESS ANALYSIS · PRODUCT THINKING · TECHNOLOGY DELIVERY</sub>
-    </td>
-    <td width="38%" valign="middle" align="center">
-      <img src="ascii.gif" alt="ASCII artwork representing human and machine collaboration" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Chamodi Senevirathna — Business analysis, product decisions and technology delivery" width="100%" />
+</p>
 
 Most of my work starts with a practical question: what is actually getting in the way, and what would make it better?
 
