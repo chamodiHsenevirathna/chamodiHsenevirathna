@@ -12,82 +12,81 @@ My projects reflect that mix. Some explore product opportunities and business wo
 
 ---
 
-## A selection of things I've been working on
+## Selected work
 
-The projects below are grouped by the kind of question behind them, not by technology stack.
+A portfolio of product questions, business systems and technical experiments. I group the work by the problem being explored, rather than by language or framework. New projects can be added to a category without renumbering or restructuring the rest of the page.
 
-### Business, customers & operations
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <sub>01 / GO-TO-MARKET SYSTEMS</sub><br/><br/>
-      <strong><a href="https://github.com/chamodiHsenevirathna/autonomous-gtm">Autonomous GTM — from first enquiry to thoughtful follow-up</a></strong><br/><br/>
-      What if lead research, qualification, CRM updates and follow-ups worked as one connected process? This simulated end-to-end case study explores that workflow, with agents preparing the work and people approving consequential actions.<br/><br/>
-      <sub>GTM operations · Process design · Human oversight · Auditability</sub>
-    </td>
-  </tr>
-</table>
-
-### Product questions worth investigating
+### Business systems & operations
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>02 / HEALTHCARE · PRODUCT STRATEGY</sub><br/><br/>
+      <strong><a href="https://github.com/chamodiHsenevirathna/autonomous-gtm">Autonomous GTM</a></strong><br/><br/>
+      A simulated end-to-end go-to-market workflow connecting lead research, qualification, CRM updates and follow-up, with people approving consequential actions.<br/><br/>
+      <sub>GTM operations · Process design · Human oversight · Auditability</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/chamodiHsenevirathna/ai-enterprise-sales-transformation">AI enterprise sales transformation</a></strong><br/><br/>
+      A developing exploration of how AI could support enterprise sales processes and commercial operations.
+    </td>
+  </tr>
+</table>
+
+### Product discovery & strategy
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/chamodiHsenevirathna/healthcare-ai-case-study">When AI predictions don't pay</a></strong><br/><br/>
       A model can predict readmission risk. Can a hospital act on it, and does the economics make sense for the organisation paying?<br/><br/>
       <sub>Business viability · Incentives · Operational fit</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>03 / FINANCIAL SERVICES · PRODUCT DISCOVERY</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/digital-financial-document-intelligence">Beyond chat with PDFs</a></strong><br/><br/>
-      Financial analysis needs more than a fluent answer. This research explores where document AI loses structure, evidence and trust.<br/><br/>
+      Research into where document AI loses structure, evidence and trust in financial analysis workflows.<br/><br/>
       <sub>Workflow analysis · Problem framing · Evaluation</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>04 / HEALTH TECHNOLOGY · OPPORTUNITY ASSESSMENT</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/digital-twin-oncology-case-study">Beyond trial and error</a></strong><br/><br/>
       Which oncology use cases have enough evidence, a credible validation path and a reason to become a product?<br/><br/>
       <sub>Use-case prioritisation · Stakeholders · Risk</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>05 / CONSUMER · PRODUCT DEFINITION</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/local-first-reader-case-study">A local-first reading experience</a></strong><br/><br/>
-      Could a private, account-free reading experience be compelling enough to justify building? The research narrows the opportunity before committing to a build.<br/><br/>
+      Research into whether a private, account-free reading experience is compelling enough to justify building.<br/><br/>
       <sub>Product research · MVP scope · Feasibility</sub>
     </td>
   </tr>
 </table>
 
-### Things I built or tested
+### Prototypes & product experiments
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>06 / PRODUCT PROTOTYPE</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/brickwise">Brickwise</a></strong><br/><br/>
       A working local prototype for visual product discovery. It learns from Like / Pass feedback to shape recommendations, rather than asking people to describe their taste in filters.<br/><br/>
       <sub>Product experience · Personalisation · Experimentation</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>07 / NEUROSCIENCE × COMPUTING</sub><br/><br/>
-      <strong><a href="https://github.com/chamodiHsenevirathna/flyoku">Flyoku — can a tiny brain learn Sudoku?</a></strong><br/><br/>
-      A playful experiment using a real fruit-fly connectome and a simplified neural simulation to test whether a tiny readout can learn a small pattern task. The result is as interesting for what it cannot learn as for what it can.<br/><br/>
-      <sub>Curiosity project · Simulation · Experimental design</sub>
+      <strong><a href="https://github.com/chamodiHsenevirathna/rag-evaluation-and-diagnostics">RAG evaluation & diagnostics</a></strong><br/><br/>
+      A space for experiments around evaluating retrieval-augmented generation systems and diagnosing failure modes.
     </td>
   </tr>
+</table>
+
+### AI, data & technical research
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <sub>08 / MEDICAL AI · EVALUATION</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/vlm-tumor-size-estimation">Can a vision-language model measure a tumour?</a></strong><br/><br/>
       A research prototype investigating whether pixel spacing helps a VLM estimate physical tumour dimensions. The initial invalid run was withdrawn; corrected inference remains pending.<br/><br/>
       <sub>Evaluation design · Data quality · Risk controls</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>09 / SPEECH TECHNOLOGY · RESEARCH</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/speech-ai-evaluation">Speech AI evaluation</a></strong><br/><br/>
       Research into local transcription, speech measurements and how coaching could be tied to evidence instead of invented feedback.<br/><br/>
       <sub>Measurement · Evaluation · Product research</sub>
@@ -95,27 +94,18 @@ The projects below are grouped by the kind of question behind them, not by techn
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>10 / DATA ANALYSIS · REPRODUCIBILITY</sub><br/><br/>
       <strong><a href="https://github.com/chamodiHsenevirathna/fruit-fly-connectome-explorer">Fruit Fly Connectome Explorer</a></strong><br/><br/>
-      An investigation into how changing connection-weight thresholds changes the ranking of neurons in a large connectome dataset. A reminder that analytical choices can change the story the data tells.<br/><br/>
+      An investigation into how changing connection-weight thresholds changes the ranking of neurons in a large connectome dataset.<br/><br/>
       <sub>Data analysis · Sensitivity analysis · Reproducibility</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>— / MORE EXPERIMENTS</sub><br/><br/>
-      <strong><a href="https://github.com/chamodiHsenevirathna">Browse all public repositories ↗</a></strong><br/><br/>
-      Smaller explorations and work in progress live alongside the selected projects. Not everything needs to become a case study.
+      <a href="https://github.com/chamodiHsenevirathna?tab=repositories"><strong>Explore all public repositories ↗</strong></a><br/><br/>
+      Smaller experiments, new work and evolving projects live there too. Not every exploration needs a full case study.
     </td>
   </tr>
 </table>
 
-### More experiments in AI and product development
-
-- **[Adaptive LLM Routing](https://github.com/chamodiHsenevirathna/adaptive-llm-routing)** — compares model-routing strategies against quality, cost and latency trade-offs using benchmark data.
-- **[SpeakLab](https://github.com/chamodiHsenevirathna/SpeakLab)** — a local-first speaking-practice prototype combining speech transcription and measurable feedback.
-- **[Substack Research Assistant](https://github.com/chamodiHsenevirathna/substack-research-assistant)** — a local-first research workflow for collecting and analysing evidence across Reddit, Substack and Google Trends.
-- **[Requirement Partner](https://github.com/chamodiHsenevirathna/requirement-partner)** — an early-stage concept for human-in-the-loop AI support for business analysis.
-
-<sub>Research status matters: several projects are desk-research investigations, not customer-validated products. Flyoku and Brickwise are experimental prototypes. The medical VLM project has not completed its corrected model run. Each repository documents its own evidence and limitations.</sub>
+<sub>Evidence and project maturity vary. Some entries are desk-research investigations, not customer-validated products; others are prototypes or technical experiments. Each repository describes its own status, evidence and limitations. Private work is intentionally not linked here.</sub>
 
 ---
 
