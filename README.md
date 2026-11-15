@@ -25,10 +25,6 @@ A portfolio of product questions, business systems and technical experiments. I 
       A simulated end-to-end go-to-market workflow connecting lead research, qualification, CRM updates and follow-up, with people approving consequential actions.<br/><br/>
       <sub>GTM operations · Process design · Human oversight · Auditability</sub>
     </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/chamodiHsenevirathna/ai-enterprise-sales-transformation">AI enterprise sales transformation</a></strong><br/><br/>
-      A developing exploration of how AI could support enterprise sales processes and commercial operations.
-    </td>
   </tr>
 </table>
 
